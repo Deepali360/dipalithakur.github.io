@@ -1,3 +1,3 @@
-ruby source "https://rubygems.org"
+source "https://rubygems.org"
 
-ruby gem "jekyll-seo-tag"
+gem "jekyll-remote-theme"
