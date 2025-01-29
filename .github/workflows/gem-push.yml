@@ -29,5 +29,5 @@ jobs:
         touch $HOME/.gem/credentials
         chmod 0600 $HOME/.gem/credentials
         printf -- "---\n:github: ${GEM_HOST_API_KEY}\n" > $HOME/.gem/credentials
-        gem build your_gem_name.gemspec
-        gem push --key github --host https://rubygems.pkg.github.com/${OWNER} your_gem_name-*.gem
+        gem build your_actual_gem_name.gemspec
+        gem push --key github --host https://rubygems.pkg.github.com/${OWNER} your_actual_gem_name-*.gem
