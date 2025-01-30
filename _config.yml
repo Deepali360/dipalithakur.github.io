@@ -1,5 +1,5 @@
 title: "Deepali Thakur's Portfolio"
-theme: jekyll-themes-cayman@v0.2.0
+remote_theme: jekyll/minima
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
 description: "Showcasing my projects and skills in data science and analytics."
