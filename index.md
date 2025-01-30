@@ -21,7 +21,7 @@ Implemented deep learning models (UNet++, DeepLabV3+) for segmenting satellite i
 **Skills Used:** Deep Learning, Computer Vision, Neural Networks.  
 **Key Achievement:** Achieved high segmentation accuracy for water bodies and forests.  
 
-### [4. Sentiment Analysis on Patient Reviews](projects/sentiment_analysis.md)  
+### [4. Sentiment Analysis on Patient Reviews](Sentiment Analysis.md)  
 Developed an automated sentiment analysis pipeline using **BERT** to analyze healthcare reviews.  
 **Skills Used:** Natural Language Processing (NLP), Python, BERT, Data Augmentation.  
 **Key Achievement:** Achieved 88% accuracy, outperforming traditional methods.  
@@ -35,4 +35,4 @@ I am a **Data Analyst** passionate about leveraging data to drive insights.
 - 🔹 Seeking opportunities in **Data Science, Business Intelligence, and Analytics**  
 
 💡 Let's connect:  
-[LinkedIn](www.linkedin.com/in/dipalithakur) | [GitHub](https://github.com/deepali360)
+[LinkedIn](https://www.linkedin.com/in/dipalithakur/)
